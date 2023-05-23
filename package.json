@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nutricion-sass": "sass ./sass/style.scss ./css/main.css -w"
+  },
+  "keywords": [],
+  "author": "Ricardo Yepez",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
+}
