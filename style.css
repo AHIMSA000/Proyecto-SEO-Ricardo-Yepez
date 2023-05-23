@@ -100,7 +100,7 @@ header {
     background: gray;
 }
 
-/* Métodos */
+/* Metodos */
 
 #metodos {
     padding: 3.125em 3.125em;
@@ -285,6 +285,10 @@ main h3 {
 }
 main img {
     margin-bottom: 3vh;
+}
+
+main p {
+    margin-bottom: 3em;
 }
 
 /* Responsive */
